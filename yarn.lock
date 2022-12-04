@@ -22,9 +22,9 @@
   dependencies:
     "@types/lodash" "^4.14.126"
 
-"@tableau/tabextsandbox@>=1.0.0":
-  version "1.0.0"
-  resolved "https://artifactory.prod.tableautools.com/artifactory/api/npm/tab-npm/@tableau/tabextsandbox/-/tabextsandbox-1.0.0.tgz#0f05cf2c0636e31e1a43bbd5c611db14532884fe"
+"@tableau/tabextsandbox@^1.0.1":
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/@tableau/tabextsandbox/-/tabextsandbox-1.9.0.tgz#14547833605d131804b2b35a66019b8dc50c09cc"
   dependencies:
     ejs "^2.6.1"
     express "^4.16.4"
@@ -885,8 +885,8 @@ decamelize@^1.2.0:
   resolved "https://artifactory.prod.tableautools.com/artifactory/api/npm/tab-npm/decamelize/-/decamelize-1.2.0.tgz#f6534d15148269b20352e7bee26f501f9a191290"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://artifactory.prod.tableautools.com/artifactory/api/npm/tab-npm/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
 
 deep-extend@^0.6.0:
   version "0.6.0"
@@ -2689,7 +2689,7 @@ once@^1.3.0, once@^1.3.1, once@^1.4.0:
 
 onetime@^1.0.0:
   version "1.1.0"
-  resolved "http://registry.npmjs.org/onetime/-/onetime-1.1.0.tgz#a1f7838f8314c516f05ecefcbc4ccfe04b4ed789"
+  resolved "https://registry.npmjs.org/onetime/-/onetime-1.1.0.tgz#a1f7838f8314c516f05ecefcbc4ccfe04b4ed789"
 
 opener@~1.4.0:
   version "1.4.3"
